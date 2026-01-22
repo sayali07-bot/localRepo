@@ -1,4 +1,5 @@
 a = input("enter the name = ")
-# print(a)
+b =int(input("enter your age :"))
+print("I'm",b,"years old")
 print("Hello..!", a)
 print("Welcome to our channel...")
